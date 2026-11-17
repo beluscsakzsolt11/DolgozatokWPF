@@ -53,7 +53,7 @@ namespace DolgozatokWPF
 
         private void btnMentes_Click(object sender, RoutedEventArgs e)
         {
-
+            MessageBox.Show("Sikeres mentés");
         }
     }
 }
