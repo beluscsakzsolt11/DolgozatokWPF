@@ -23,6 +23,7 @@ namespace DolgozatokWPF
         public MainWindow()
         {
             InitializeComponent();
+            dolgozatok.Add(new Dolgozat("Kiss Péter", 16, 87));
         }
 
     }
